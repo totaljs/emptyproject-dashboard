@@ -1,0 +1,5 @@
+name                         : Total.js Dashboard
+
+// Packages settings
+package#flow       (Object)  : { url: '/flow/' }
+package#dashboard  (Object)  : { url: '/' }
