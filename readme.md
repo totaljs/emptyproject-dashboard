@@ -7,11 +7,9 @@
 
 # Total.js: Empty Project - Dashboard
 
+- install the latest version of the __Total.js framework 4__ from NPM `$ npm install total4`
 - download example
-- open terminal / command-line
-- open app directory
-- install latest version of Total.js from NPM `$ npm install total.js`
-- run `$ node debug.js`
+- run `$ node index.js`
 - open browser `http://127.0.0.1:8000`
 
 ## UI
